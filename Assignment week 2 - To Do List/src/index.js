@@ -1,4 +1,3 @@
-import "./styles.css";
 console.clear();
 function addTask() {
   let task = document.createElement("div");
