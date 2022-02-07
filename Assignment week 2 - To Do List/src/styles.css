@@ -55,7 +55,7 @@ div.task {
 }
 @media screen and (max-width: 1440px) and (min-width: 260px) {
   * {
-    background-color: rgb(86, 26, 26);
+    background-color: rgb(39, 12, 12);
     color: grey;
   }
   .outer {
